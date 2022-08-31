@@ -1,4 +1,5 @@
-# Desafio-frexco 
+# Ecommerce Hortifruti
+
 <h2>
 <a id="user-content--sobre-o-projeto" class="anchor" aria-hidden="true" href="#sobre-o-projeto"> </a>
 <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji>
